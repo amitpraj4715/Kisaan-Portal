@@ -1,0 +1,78 @@
+body{font-family: calibri ;font-size: 18px ;
+         background-color: black;}
+
+@font-face {
+    font-family: kalinga;
+    src: url(../fonts/kalinga.ttf);
+}
+h1{font-family: kalinga;}
+h1{color: #E41F26;font-family: kalinga;font-size: 45px;}
+h3 {color: #ff2814;}
+h1 img {margin-top: -25px;}
+
+
+
+
+.header{ background: #f4f4f4;border-color: #f4f4f4;width:100%;}
+.contact-no {margin: 10px 0;text-align: right;color:#FF6;}
+
+.quote{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#F8F6;color:#FF6;}
+.quote {position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+
+.about-us{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#F8F6;color:#FF6;}
+.about-us {position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+
+
+.register{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#F10;color:#12d142}
+.register{margin:0;}
+.register {padding: 0; margin:0;}
+.register {position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+
+
+.qualities{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#FF6;}
+.qualities{margin:0;}
+.qualities{padding: 0; margin:0;}
+.qualities{position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+
+
+.vision {background: #f4f4f4;padding: 15px;min-height: 528px;}
+  .values {background: #f4f4f4;padding: 15px;min-height: 528px;}
+ .mission {background: #fafafa;padding: 15px;}
+
+.step{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#F19; color: #FF6}
+.step{margin:0;}
+.step {padding: 0; margin:0;}
+.step {position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+
+.way{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#F1F; color: #FF6}
+.way{margin:0;}
+.way{padding: 0; margin:0;}
+.way{position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+
+
+.our-team{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#F19;}
+.our-team{margin:0;}
+.our-team {padding: 0; margin:0;}
+.our-team {position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+.our-team .img-responsive {display: inline;}
+.our-team h3 p {font-size: 18px;}
+.our-team h3 {margin-top: 0;height: 55px;}
+.our-team ul li{display: inline-block; list-style-type: none;margin: 5px;position: relative;cursor: pointer;}
+
+
+
+.product{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0; center top no-repeat;background-size: cover;}
+.product h1 {color: #fff;}
+.product .pro-name {font-family: calibri;font-size: 32px;height: 100%;position: absolute;width: 100%;background-color: rgba(0, 0, 0, 0.5);line-height: 7;color: #fff;opacity: 0;transition: opacity 0.2s ease-in;}
+.product ul,.our-team ul{margin: 0;padding: 0;}
+.product ul li{display: inline-block; list-style-type: none;margin: 2px 0;position: relative;cursor: pointer;}
+.product ul li:hover .pro-name{opacity: 1;}
+
+.contact-us{position: relative;float: left;width:100%;margin: 15px 0;padding: 25px 0;background:#F8F6F7;color:#FF6;}
+.contact-us {padding: 0; margin:0;}
+.contact-us {position: relative;float:left;list-style-type: none;margin: 0 10px 0 0;}
+
+.live-int{position: relative;float: left;width:100%;margin: 15px 0 0 0;padding: 25px 0 0 0;color: #FF6}
+.live-int .btn-primary {background: #116734;border-color: #116734;}
+.live-int .btn-primary:hover {background: #e41f26;border-color: #e41f26;}
+.live-int .form{position: relative;float: left;width:100%;padding-bottom: 110px;}
